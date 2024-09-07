@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportePublico", "TransportePublico\TransportePublico.csproj", "{9FE46FEF-24A5-4288-9185-1EEAEC8DE3C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{F14C8D0E-4093-4C32-BD7A-81B19E4DE553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE46FEF-24A5-4288-9185-1EEAEC8DE3C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE46FEF-24A5-4288-9185-1EEAEC8DE3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE46FEF-24A5-4288-9185-1EEAEC8DE3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE46FEF-24A5-4288-9185-1EEAEC8DE3C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F14C8D0E-4093-4C32-BD7A-81B19E4DE553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14C8D0E-4093-4C32-BD7A-81B19E4DE553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14C8D0E-4093-4C32-BD7A-81B19E4DE553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14C8D0E-4093-4C32-BD7A-81B19E4DE553}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B248D509-53FE-462D-B661-2B32465D0D61}
+	EndGlobalSection
+EndGlobal
